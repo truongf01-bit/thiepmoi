@@ -3,3 +3,4 @@ data
 cloudflared.exe
 *.log
 .vercel
+.netlify
